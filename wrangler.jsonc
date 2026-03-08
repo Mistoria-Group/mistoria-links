@@ -34,8 +34,8 @@
   "kv_namespaces": [
     {
       "binding": "KV",
-      "preview_id": "mistoriaLinkStor",
-      "id": "mistoriaLinkStor" // IMPORTANT: Change this to your KV namespace ID
+      "preview_id": "57cf143e89b44d6394630a22546e90d0",
+      "id": "57cf143e89b44d6394630a22546e90d0" // IMPORTANT: Change this to your KV namespace ID
     }
   ],
   //"r2_buckets": [
